@@ -1,2 +1,2 @@
-v11
+v12
 https://github.com/zmxstery/Mystery-Updater/releases/tag/macro
