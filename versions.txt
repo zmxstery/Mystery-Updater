@@ -1,2 +1,2 @@
 v16
-https://github.com/zmxstery/Mystery-Updater/releases/tag/macro
+https://github.com/zmxstery/Mystery-Updater/releases/download/macro/mysterys_macro.exe
