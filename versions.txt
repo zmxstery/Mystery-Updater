@@ -1,2 +1,2 @@
-v21
-https://github.com/zmxstery/Mystery-Updater/releases/download/macro/mysterys_macro_v21.exe
+v22
+https://github.com/zmxstery/Mystery-Updater/releases/download/macro/mysterys_macro_v22.exe
